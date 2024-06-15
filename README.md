@@ -1,6 +1,6 @@
 # ARDecipher (Arduboy game)
 
-Similar to the terminal hack in Fallout 4. Find the password within 5 retries. Number of matched characters will be shown if you choose an non-password string.
+Similar to the terminal hack in Fallout 4. Find the password within 5 retries. Number of matched characters will be shown if you choose a non-password string.
 
 This project includes the following third-party libraries:
 
